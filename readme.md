@@ -4,7 +4,7 @@
 # Movie Recommendation Pipeline
 
 This project implements a **Movie Recommendation System** using the [MovieLens 100k dataset](https://grouplens.org/datasets/movielens/100k/).
-It demonstrates how to design a machine learning workflow: **ingestion → preprocessing → training → recommendation → orchestration** with Prefect.
+It demonstrates how to design a machine learning workflow: **ingestion → preprocessing → training → recommendation** with Prefect.
 
 ---
 
