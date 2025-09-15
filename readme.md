@@ -74,7 +74,7 @@ movie_recommendation_pipeline/
 ##  Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Prabhab-Khanal/Movie-Recommendation-Pipeline.git
 cd movie_recommendation_pipeline
 
 # Create virtual environment
