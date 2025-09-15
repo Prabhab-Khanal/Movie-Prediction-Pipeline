@@ -8,7 +8,7 @@ It demonstrates how to design a machine learning workflow: **ingestion → prepr
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 movie_recommendation_pipeline/
@@ -35,7 +35,7 @@ movie_recommendation_pipeline/
 
 ---
 
-## 🔄 Pipeline Workflow
+##  Pipeline Workflow
 
 1. **Convert Data**
 
@@ -71,7 +71,7 @@ movie_recommendation_pipeline/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone <your-repo-url>
@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ### Convert raw MovieLens data
 
@@ -113,7 +113,7 @@ python src/recommend.py
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * **Name:** MovieLens 100k
 * **Records:** 100,000 ratings
@@ -123,7 +123,7 @@ python src/recommend.py
 
 ---
 
-## ✨ Features
+##  Features
 
 * End-to-end modular ML pipeline
 * User-User Collaborative Filtering (cosine similarity)
@@ -132,7 +132,7 @@ python src/recommend.py
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 * Implement Item-Item CF and Matrix Factorization (ALS, SVD++)
 * Add content-based filtering (genres, release year)
